@@ -1,16 +1,16 @@
 // Multiple element create code start now
-let ulCreated = document.createElement("ul");
-let li1 = document.createElement("li")
-li1.innerText = "HTML"
-let li2 = document.createElement("li")
-li2.innerText = "CSS"
-let li3 = document.createElement("li")
-li3.innerText = "JS"
+// let ulCreated = document.createElement("ul");
+// let li1 = document.createElement("li")
+// li1.innerText = "HTML"
+// let li2 = document.createElement("li")
+// li2.innerText = "CSS"
+// let li3 = document.createElement("li")
+// li3.innerText = "JS"
 // console.log(ulCreated,li1,li2,li3);
-ulCreated.appendChild(li1)
-ulCreated.appendChild(li2)
-ulCreated.appendChild(li3)
-document.body.appendChild(ulCreated)
+// ulCreated.appendChild(li1)
+// ulCreated.appendChild(li2)
+// ulCreated.appendChild(li3)
+// document.body.appendChild(ulCreated)
 // Advance Card create
 let createCard = () => {
     // console.log("bnt clicked");
